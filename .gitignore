@@ -1,0 +1,8 @@
+# Build artifacts
+*.so
+*.h
+/dist/
+
+# Go
+*.test
+*.out
